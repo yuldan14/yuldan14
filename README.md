@@ -7,7 +7,7 @@ I'm a passionate Informatics student with strong interests in **Front-End Develo
 ---
 
 ## 🚀 About Me
-- 🎓 Currently studying **Informatics** and actively involved in the **Informatics Student Association**, serving as the Head of Research and Technology Development.
+- 🎓 Currently studying **Informatics** and actively involved in the **Informatics Student Association**, serving as the Head of Department of Education.
 - 🧑‍💻 I have hands-on experience developing websites using **Next.js**, **React**, and **Tailwind CSS**.
 - 📊 I enjoy exploring data — from processing, analyzing, to building **predictive models** using **Python**, **Pandas**, **scikit-learn**, **ARIMA**, and **LSTM**.
 - 📱 I also have experience building simulations and mobile apps using **Python**, **OpenGL**, and **Android** tools.
